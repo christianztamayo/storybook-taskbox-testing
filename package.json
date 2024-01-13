@@ -44,5 +44,8 @@
     "jackspeak": "2.1.1"
   },
   "readme": "ERROR: No README data found!",
-  "_id": "testing-ui-code-vite-sb-7@0.0.0"
+  "_id": "testing-ui-code-vite-sb-7@0.0.0",
+  "msw": {
+    "workerDirectory": "public"
+  }
 }
